@@ -1,0 +1,9 @@
+﻿@Host = http://localhost
+@Port = 7280
+@Functions_HostAddress = {{Host}}:{{Port}}
+
+###
+GET {{Functions_HostAddress}}/api/knightpath?operationId=a4059675-024f-41da-b6a5-a1c689a21793
+
+###
+POST {{Functions_HostAddress}}/api/knightpath?source=A1&target=D5

@@ -1,0 +1,11 @@
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Core\bin\Debug\net6.0\MrKnight.Core.deps.json
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Core\bin\Debug\net6.0\MrKnight.Core.dll
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Core\bin\Debug\net6.0\MrKnight.Core.pdb
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Core\obj\Debug\net6.0\MrKnight.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Core\obj\Debug\net6.0\MrKnight.Core.AssemblyInfoInputs.cache
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Core\obj\Debug\net6.0\MrKnight.Core.AssemblyInfo.cs
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Core\obj\Debug\net6.0\MrKnight.Core.csproj.CoreCompileInputs.cache
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Core\obj\Debug\net6.0\MrKnight.Core.dll
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Core\obj\Debug\net6.0\refint\MrKnight.Core.dll
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Core\obj\Debug\net6.0\MrKnight.Core.pdb
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Core\obj\Debug\net6.0\ref\MrKnight.Core.dll

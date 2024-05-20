@@ -1,0 +1,15 @@
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\bin\Debug\net6.0\MrKnight.Infrastructure.deps.json
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\bin\Debug\net6.0\MrKnight.Infrastructure.dll
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\bin\Debug\net6.0\MrKnight.Infrastructure.pdb
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\bin\Debug\net6.0\MrKnight.Core.dll
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\bin\Debug\net6.0\MrKnight.Core.pdb
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\obj\Debug\net6.0\MrKnight.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\obj\Debug\net6.0\MrKnight.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\obj\Debug\net6.0\MrKnight.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\obj\Debug\net6.0\MrKnight.Infrastructure.AssemblyInfo.cs
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\obj\Debug\net6.0\MrKnight.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\obj\Debug\net6.0\MrKnight.Infrastructure.csproj.CopyComplete
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\obj\Debug\net6.0\MrKnight.Infrastructure.dll
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\obj\Debug\net6.0\refint\MrKnight.Infrastructure.dll
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\obj\Debug\net6.0\MrKnight.Infrastructure.pdb
+C:\Users\Qudus Giwa\Desktop\MrKnight\MrKnight.Infrastructure\obj\Debug\net6.0\ref\MrKnight.Infrastructure.dll

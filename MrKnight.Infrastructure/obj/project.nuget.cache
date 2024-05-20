@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZp10oiyWMh/q297ZSzJEE1/YXnu5c8jHd5S9siiaztsBSV16TPv/l/k/OxuPRtWYy53wTXt9v0V0ql7Q8NFBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Qudus Giwa\\Desktop\\MrKnight\\MrKnight.Infrastructure\\MrKnight.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.30\\microsoft.entityframeworkcore.6.0.30.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.30\\microsoft.entityframeworkcore.abstractions.6.0.30.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.30\\microsoft.entityframeworkcore.analyzers.6.0.30.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\Qudus Giwa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
